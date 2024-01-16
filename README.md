@@ -12,5 +12,5 @@
 **You should install cookiecutter first by `pip install cookiecutter`**
 
 ```bash
-cookiecutter gh:iiicebeaaar/cookiecutter-pypackage-poetry
+cookiecutter gh:iiicebearrr/cookiecutter-pypackage-poetry
 ```
