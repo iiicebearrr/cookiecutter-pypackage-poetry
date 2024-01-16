@@ -14,3 +14,12 @@
 ```bash
 cookiecutter gh:iiicebearrr/cookiecutter-pypackage-poetry
 ```
+
+then, cd to your app and init your project:
+
+```bash
+git init
+poetry env use {YOUR PYTHON EXECUTABLE}
+source {YOUR POETRY VENV PATH}/bin/activate
+poetry install
+```
